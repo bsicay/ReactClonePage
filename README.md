@@ -41,17 +41,27 @@ http://localhost:5173/
 
 ## Estructura
 - src/ 
-  - copy/
-    - copy.css
-    - copy.js 
-  - copyLinks/
-    - copylinks.css
-    - copylinks.js
-    - copylinksManual.js
-    - copylinksManual2.js 
-  - extras/
-    - extras.css
-    - extras.js 
+  - assets/
+    - AndroidIcon.svg
+    - AppleIcon.svg
+    - arrowIcon.svg
+    - ChromeIcon.svg
+    - downArrowIcon.svg
+    - FirefoxIcon.svg
+    - firstIconNav.svg
+    - HeartIcon.svg
+    - metaLogo.svg
+    - newsIcon.svg
+    - PlayIcon.svg
+    - react.svg
+    - SafariIcon.svg
+    - secondIconNav.svg
+  - hooks/
+    - useMediaQuery.ts
+  - scenes/
+    - carrousel/
+      - extras.css
+      - extras.js 
   - footer/
     - footer.css
     - footer.js
