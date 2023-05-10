@@ -39,3 +39,34 @@ _Al ingresar a la vista de la apliación, encontrará una vista principal, en do
 http://localhost:5173/
 ```
 
+## Estructura
+- src/ 
+  - assets/
+    - AndroidIcon.svg
+    - AppleIcon.svg
+    - arrowIcon.svg
+    - ChromeIcon.svg
+    - downArrowIcon.svg
+    - FirefoxIcon.svg
+    - firstIconNav.svg
+    - HeartIcon.svg
+    - metaLogo.svg
+    - newsIcon.svg
+    - PlayIcon.svg
+    - react.svg
+    - SafariIcon.svg
+    - secondIconNav.svg
+  - hooks/
+    - useMediaQuery.ts
+  - scenes/
+      - carrousel.tsx
+      - createInterfaces.tsx
+      - footer.tsx
+      - main.tsx
+      - navbar.tsx
+      - platform.tsx
+      - upgrade.tsx
+  - App.tsx
+  - index.html
+  - index.css
+  - main.tsx
