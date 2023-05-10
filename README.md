@@ -39,7 +39,6 @@ _Al ingresar a la vista de la apliación, encontrará una vista principal, en do
 http://localhost:5173/
 ```
 
-```
 ## Estructura
 - src/ 
   - copy/
